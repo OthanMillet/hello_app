@@ -73,7 +73,6 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     nokogiri (1.8.2)
-    pg (0.20.0)
     puma (3.9.1)
     rack (1.6.10)
     rack-test (0.7.0)
@@ -153,7 +152,6 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-  pg (= 0.20.0)
   puma (= 3.9.1)
   rails (= 4.2.10)
   sass-rails (~> 5.0)
