@@ -1,0 +1,65 @@
+[33mcommit d8763ffac36e086b6939029aca229bbf8753053a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Thu Jun 7 10:29:09 2018 +0800
+
+    redo
+
+[33mcommit 2601ad24c0ad70b07e09e25b9fdeca6eef2e6460[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Thu Jun 7 09:25:14 2018 +0800
+
+    Add precompile assets for Heroku
+
+[33mcommit 88aa049d665d2e71cc4907e8e080791b6eab34bb[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Thu Jun 7 09:16:27 2018 +0800
+
+    adasd
+
+[33mcommit 97e84dcb17cb9c629c8227e5927989b0e934ba5e[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Wed Jun 6 18:34:19 2018 +0800
+
+    asd
+
+[33mcommit ee3522306a794da32ef3dc2bb820016ff6e8b1a3[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Wed Jun 6 18:22:58 2018 +0800
+
+    asd
+
+[33mcommit a850822d58c6d1de4c352167d82cbd6e3f8cf2ff[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Wed Jun 6 17:57:56 2018 +0800
+
+    updated
+
+[33mcommit 94af9eaaa07dcd93e380f42f864c6852a301f865[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Wed Jun 6 17:55:02 2018 +0800
+
+    updated
+
+[33mcommit a006bfb0bf23cf324db981b7e514ed0644e04b54[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Wed Jun 6 17:21:20 2018 +0800
+
+    Update Gemfile for Heroku
+
+[33mcommit 0b6dde7d83936792828d520ff86abf0f64700b77[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Wed Jun 6 16:59:08 2018 +0800
+
+    updated readme
+
+[33mcommit bafce3bcecfdc639357d3632216fef24cd1c2846[m
+Author: OthanMillet <othanmillet@gmail.com>
+Date:   Wed Jun 6 16:49:44 2018 +0800
+
+    sample ruby
+
+[33mcommit 0bc10bbf6ca1d7ab04cefd3d0435daabdbf7a228[m
+Author: Othan <30989239+OthanMillet@users.noreply.github.com>
+Date:   Wed Jun 6 16:47:15 2018 +0800
+
+    Initial commit
